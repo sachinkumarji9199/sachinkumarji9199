@@ -82,8 +82,11 @@ At work I build the **Oxon Fintech website and CRM**: a Next.js + TypeScript fro
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinkumarji9199&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumarji9199&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkumarji9199&theme=github_dark" alt="GitHub profile summary"/>
+</p>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=sachinkumarji9199&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachinkumarji9199&theme=github_dark" alt="Top languages"/>
 </p>
 
 ## Let's connect
